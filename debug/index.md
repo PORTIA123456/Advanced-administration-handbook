@@ -22,4 +22,4 @@ When it comes to [debugging a WordPress site](https://developer.wordpress.org/ad
 
 ## Changelog
 
-- 2023-02-17: Added original content.
+- 2025-03-06: Added original content.
